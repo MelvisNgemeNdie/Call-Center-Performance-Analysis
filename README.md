@@ -28,7 +28,7 @@ The company required an in-depth analysis of:
 
 ---
 
-## 📊 Agents Performance Statistics
+## Agents Performance Statistics
 
 | Agent   | Resolved Calls | Avg. Satisfaction Rating | Avg. Speed of Answer (sec) |
 |---------|----------------|---------------------------|-----------------------------|
