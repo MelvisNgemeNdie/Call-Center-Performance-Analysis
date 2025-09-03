@@ -1,5 +1,5 @@
 # Call-Center-Performance-Analysis
-##  Description
+##  Project Overview
 As part of the **PwC Switzerland Business Intelligence Consultant Virtual Work Experience Program**, I analyzed **call center performance data** from *Call Now Customer Service Company*.  
 The project evaluated **key customer service KPIs** and **agent performance** to identify efficiency gaps and opportunities for improvement.
 
