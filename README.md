@@ -21,7 +21,8 @@ The company required an in-depth analysis of:
 - **Call Resolution:** 72.9% resolved, 27.1% unresolved  
 - **Call Handling:** 81.1% answered, 18.9% abandoned  
 
-**Agent Performance Trends**  
+**Agent Performance Trends** 
+
 - **High Performers:** Martha, Dan, Diane (above-average satisfaction ratings)  
 -  **Average Performers:** Greg, Stewart  
 -  **Underperformers:** Jim, Becky, Joe (lower satisfaction ratings, slower responses)  
