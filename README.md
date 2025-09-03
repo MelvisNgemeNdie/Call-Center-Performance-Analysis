@@ -1,11 +1,11 @@
-# Call Center Performance Analysis
-##  Project Overview
+## Call Center Performance Analysis
+###  Project Overview
 As part of the **PwC Switzerland Business Intelligence Consultant Virtual Work Experience Program**, I analyzed **call center performance data** from *Call Now Customer Service Company*.  
 The project evaluated **key customer service KPIs** and **agent performance** to identify efficiency gaps and opportunities for improvement.
 
 ---
 
-## The Problem
+### The Problem
 The company required an in-depth analysis of:  
 - **Average Speed of Answer (ASA)**  
 - **Customer Satisfaction Ratings**  
@@ -15,7 +15,7 @@ The company required an in-depth analysis of:
 
 ---
 
-## Insights
+### Insights
 - **Average Speed of Answer (ASA):** 67.5 seconds  
 - **Average Satisfaction Rating:** 3.4 / 5  
 - **Call Resolution:** 72.9% resolved, 27.1% unresolved  
@@ -28,7 +28,7 @@ The company required an in-depth analysis of:
 
 ---
 
-## Agents Performance Statistics
+### Agents Performance Statistics
 
 | Agent   | Resolved Calls | Avg. Satisfaction Rating | Avg. Speed of Answer (sec) |
 |---------|----------------|---------------------------|-----------------------------|
@@ -43,14 +43,14 @@ The company required an in-depth analysis of:
 
 ---
 
-## Recommendations
+### Recommendations
 - **Targeted training & coaching** for underperforming agents (Jim, Becky, Joe) to improve service quality.  
 -  **Performance-based incentives** for high performers (Martha, Dan, Diane) to sustain motivation.  
 -  **Continuous KPI monitoring** to optimize call handling efficiency and reduce unresolved/abandoned calls.  
 
 ---
 
-##  Skills Used
+###  Skills Used
 - **SQL** – Extracted and analyzed call center data  
 - **Tableau** – Built interactive dashboards for KPIs and agent analysis  
 - **Data Analysis** – Evaluated efficiency across key call center metrics  
@@ -59,12 +59,14 @@ The company required an in-depth analysis of:
 
 ---
 
-## Dashboard Preview
+### Dashboard Preview
 *(Add a screenshot of your Tableau dashboard here if available)*  
 
 [![View Tableau Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourDashboardLinkHere)
 
 ---
 
-## Key Takeaway
+### Key Takeaway
 By analyzing **call center KPIs** and **agent performance**, this project identified **bottlenecks and improvement opportunities**, enabling better **customer satisfaction** and **operational efficiency**.
+
+---
