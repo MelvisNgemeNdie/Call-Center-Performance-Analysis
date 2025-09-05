@@ -4,7 +4,6 @@ As part of the **PwC Switzerland Business Intelligence Consultant Virtual Work E
 The project evaluated **key customer service KPIs** and **agent performance** to identify efficiency gaps and opportunities for improvement.
 
 ---
-
 ### The Problem
 The company required an in-depth analysis of:  
 - **Average Speed of Answer (ASA)**  
@@ -59,14 +58,10 @@ The company required an in-depth analysis of:
 - **Data Storytelling** – Communicated insights and recommendations effectively  
 
 ---
-
 ### Dashboard Preview
-
 ![Calls Dashboard](calls.png)
 
-
 ---
-
 ### Key Takeaway
 By analyzing **call center KPIs** and **agent performance**, this project identified **bottlenecks and improvement opportunities**, enabling better **customer satisfaction** and **operational efficiency**.
 
