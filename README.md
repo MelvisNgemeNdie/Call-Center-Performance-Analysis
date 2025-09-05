@@ -11,9 +11,7 @@ The company required an in-depth analysis of:
 - **Resolved vs. Unresolved Calls**  
 - **Call Abandonment Rate**  
 - **Individual Agent Performance**  
-
 ---
-
 ### Insights
 - **Average Speed of Answer (ASA):** 67.5 seconds  
 - **Average Satisfaction Rating:** 3.4 / 5  
